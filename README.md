@@ -1,12 +1,12 @@
-### DIT Website:
+## DIT Website:
 
-# Technologies Used: 
+## Technologies Used: 
 
 - React.js
 - Bootstrap
 - Express (Future)
 
-# Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
