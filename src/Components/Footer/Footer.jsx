@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
+import SocialMedia from '../UI/SocialMedia/SocialMedia';
 
 class Footer extends Component {
   render () {
@@ -23,6 +24,9 @@ class Footer extends Component {
               <Link to="ContactUs" class="btn-xs btn-secondary">
                 Contact Us
               </Link>
+            </ul>
+            <ul>
+            <SocialMedia />
             </ul>
           </div>
         </section>

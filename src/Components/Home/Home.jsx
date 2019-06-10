@@ -1,11 +1,23 @@
 import React from 'react';
+import SurveyButton from '../UI/Buttons/SurveyButton';
 
-function About() {
+function Home() {
   return (
-    <div class="bg-info">
-      HOME
+    <div>
+      <div class="bg-info">
+        DIT-Image and title
+      </div>
+      <div class="bg-primary">
+        Short About us
+      </div>
+      <div class="bg-info">
+        <div>
+          How you can Help
+        </div>
+        <SurveyButton />
+      </div>
     </div>
   );
 }
 
-export default About;
+export default Home;
