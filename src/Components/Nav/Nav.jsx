@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import '../css/Nav.css'
+import './Nav.css'
 // import './App.css'
 
 class Nav extends  Component {
