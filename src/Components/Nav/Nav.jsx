@@ -6,9 +6,9 @@ import logo from '../../assets/images/colorLogoTransparentBackground.png'
 class Nav extends  Component {
     render() {
         return (
-            <div>
+            <div class="nav-div">
+                <img class="logo-img"src={logo} width="45" height="45" alt="dreamers in tech logo"></img>
                 <nav class="navbar navbar-light justify-content-end">
-                    <img  src={logo} width="65" height="65" alt="dreamers in tech logo"></img>
                     <ul class="nav" >
                         <li class="nav-item">
                             <a class="nav-link" href="/">Home</a>
