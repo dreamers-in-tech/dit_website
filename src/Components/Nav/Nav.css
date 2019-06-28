@@ -1,0 +1,13 @@
+.logo-img{
+    float: left;
+    position: absolute;
+    top:0;
+    bottom:0;
+    left: 5px;
+    margin:auto;
+}
+
+.nav-div{
+    position: relative;
+    background: #F7F9F9;
+}
