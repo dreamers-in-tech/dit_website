@@ -16,12 +16,12 @@ class Footer extends Component {
               </Link>
             </ul>
             <ul class="flex-row align-items-center">
-              <Link to="About" class="btn-xs btn-secondary">
+              <Link to="about" class="btn-xs btn-secondary">
                 About
               </Link>
             </ul>
             <ul class="flex-row align-items-center">
-              <Link to="ContactUs" class="btn-xs btn-secondary">
+              <Link to="contact" class="btn-xs btn-secondary">
                 Contact Us
               </Link>
             </ul>
