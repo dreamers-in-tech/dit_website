@@ -10,8 +10,8 @@ import Footer from '../Footer/Footer';
 function App() {
   let routes = (
     <Switch>
-      <Route path="/About" exact component={About} />
-      <Route path="/ContactUs" exact component={ContactUs} />
+      <Route path="/about" exact component={About} />
+      <Route path="/contact" exact component={ContactUs} />
       <Route path="/" exact component={Home} />
       <Redirect to="/" />
     </Switch>
